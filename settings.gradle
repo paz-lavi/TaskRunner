@@ -1,0 +1,3 @@
+include ':TaskRunnerLib'
+include ':app'
+rootProject.name = "TaskRunner"
