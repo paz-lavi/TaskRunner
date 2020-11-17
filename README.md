@@ -6,6 +6,8 @@
 * [Usage](https://github.com/paz-lavi/TaskRunner/blob/master/README.md#usage)  
 * [Integration](https://github.com/paz-lavi/TaskRunner/blob/master/README.md#integration)  
 * [How To Use](https://github.com/paz-lavi/TaskRunner/blob/master/README.md#how-to-use)  
+  *  [Class instanse](https://github.com/paz-lavi/TaskRunner/blob/master/README.md#class-instanse)
+  * [Interface instanse](https://github.com/paz-lavi/TaskRunner/blob/master/README.md#interface-instanse)
 * [License](https://github.com/paz-lavi/TaskRunner/blob/master/README.md#license)   
   
   
